@@ -62,6 +62,7 @@ Recommendations based on (SVD) x Recommendations based on (K Means)
 Table 2: List of recommendation by SVD
 
 ![image](https://github.com/bialobao/Recommendation-System-Dash/assets/102151892/01c101e0-2ed2-4923-91e7-87559cb70e08)
+
 Table 3: List of recommendation by Kmeans
 
 Visualizing the table above, we can see that the methods coincide in 8 book indications for the same user. These coincidences shows a good performance of the methods.
@@ -87,11 +88,13 @@ Unlike the first dataset, this second only contains the composition of a superma
 In addition, the dataset was encoded, so that each product was a column and showed that if there is a product then = 1, if not then = 0.
 
 Apriori
+
 ![image](https://github.com/bialobao/Recommendation-System-Dash/assets/102151892/6684329e-16fb-4677-87fb-71955850fdc6)
 
 Table 4: Associated products by Apriori
 
 Fp Grown
+
 ![image](https://github.com/bialobao/Recommendation-System-Dash/assets/102151892/35b85475-ba34-457e-beac-922749a607f6)
 
 Table 5: Associated products by Fp Grown
